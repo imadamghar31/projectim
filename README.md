@@ -13,14 +13,14 @@ My goal is to build impactful projects that combine data, business, and technolo
 ##  About Me
 -   Background: Management, Marketing & Strategy  
 -   Currently learning: **SQL, Python, Business Intelligence, and Machine Learning**  
--   Building projects in: **Data Analytics & Smart Solutions (IoT, AgriTech, Digital Transformation)**  
+-   Building projects in: **Data Analytics & Smart Solutions (IoT, Digital Transformation)**  
 -   Skills: Data cleaning, visualization, dashboards, and storytelling with data  
 
 ---
 
 ##  Featured Projects (coming soon)
 -  **FreshGro Data Analytics** : Analyzing sales & customer patterns with SQL : Python  
--  **HydroSmart** : Smart water management with IoT & data integration  
+-  **MajiNdo Water Crisis Analytics** : Exploring gender composition at shared water taps, crime data insights & progress reporting (Excel, Google Sheets, SQL & Power BI)    
 -  **Digital Marketing Analytics** : Data-driven campaigns and performance dashboards  
 
 ---
