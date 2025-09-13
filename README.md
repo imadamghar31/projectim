@@ -34,7 +34,7 @@ My goal is to build impactful projects that combine data, business, and technolo
 
 ##  Connect With Me
 -  www.linkedin.com/in/imad-amghar-97281b47 
--  imadamghar.byethost9.com 
+-  www.imadamghar.byethost9.com 
 -  Email: amghar.imad.90@gmail.com
 
 ---
